@@ -5,6 +5,7 @@
 
 <p align="center">Multithreaded, Physically-Based, Multi-Material, Anti-Aliased & Sphere Rendered RayTracer Engine</p>
 
+![output](https://github.com/user-attachments/assets/f18ba130-4f10-4514-87e4-7b8789ef9f1a)
 
 ## Features
 - Physically-Based Light Transport
